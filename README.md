@@ -4,6 +4,7 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/MissMokandu/count.svg" alt="Visitor's Count" />
 </div>
+<img src="(https://i.pinimg.com/1200x/af/11/fe/af11fe9343c3f17350e3f279868127e2.jpg)" alt="Sitting in front of a desk">
 
 <!--
 **MissMokandu/MissMokandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
