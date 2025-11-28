@@ -8,7 +8,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/1200x/af/11/fe/af11fe9343c3f17350e3f279868127e2.jpg" 
        alt="Sitting" 
-       width="350" 
+       width="300" 
+       height="400" 
        style="border-radius: 10px;" />
 </div>
 
