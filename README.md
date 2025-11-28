@@ -2,9 +2,11 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/MissMokandu/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=MissMokandu&label=Visitors&color=0e75b6&style=flat" alt="Page views" />
 </div>
-<img src="(https://i.pinimg.com/1200x/af/11/fe/af11fe9343c3f17350e3f279868127e2.jpg)" alt="Sitting in front of a desk">
+
+<img src="https://i.pinimg.com/1200x/af/11/fe/af11fe9343c3f17350e3f279868127e2.jpg" alt="Sitting in front of a desk" width="600">
+
 
 <!--
 **MissMokandu/MissMokandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
