@@ -19,6 +19,18 @@
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,react,nextjs,postgres," />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,redux,git,postman,figma" />
+</p>
+
+<hr>
+
 
 
 <!--
