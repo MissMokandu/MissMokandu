@@ -5,13 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=MissMokandu&label=Visitors&color=0e75b6&style=flat" alt="Page views" />
 </div>
 
-<img src="https://i.pinimg.com/1200x/af/11/fe/af11fe9343c3f17350e3f279868127e2.jpg" alt="Sitting in front of a desk" width="600">
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/af/11/fe/af11fe9343c3f17350e3f279868127e2.jpg" 
+       alt="Sitting" 
+       width="350" 
+       style="border-radius: 10px;" />
+</div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+MissMokandu+here+Welcome!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+MissMokandu!;" />
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+
 
 
 <!--
